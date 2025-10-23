@@ -1,0 +1,30 @@
+    @font-face {
+        font-family: "方正书宋_GBK";
+        src: url("方正书宋_GBK.woff2") format("woff2"),
+             url("方正书宋_GBK.woff") format("woff");
+        unicode-range: U+4E00-9FFF;
+    }
+    @font-face {
+        font-family: "DeVinne BT";
+        src: url(DeVinne BT.woff2) format("woff2"),
+             url(DeVinne BT.woff) format("woff");
+        unicode-range: U+0000-007F;
+    }
+    
+    body {
+        background-color: #ffffff;
+        color: #000000;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20px;
+    }
+    
+    p {
+        font-family: "DeVinne BT", "方正书宋_GBK";
+    }
+
+    h1, h2, h3, h4, h4, h5, h6 {
+        font-weight: normal;
+        font-family: "Modern20 BT", "方正大标宋简繁";
+        color: #000000;
+    }

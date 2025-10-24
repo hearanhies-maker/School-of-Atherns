@@ -22,7 +22,7 @@
     h1, h2, h3, h4, h4, h5, h6 {
         font-weight: normal;
         font-family: "DeVinne BT", "方正书宋_GBK";
-        color: #000000;
+        text-align: center;
     }
 
     p {
@@ -30,4 +30,5 @@
     }
 
     }
+
 

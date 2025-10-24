@@ -18,9 +18,16 @@
         margin: 0;
         padding: 20px;
     }
-    
+
+    h1, h2, h3, h4, h4, h5, h6 {
+        font-weight: normal;
+        font-family: "DeVinne BT", "方正书宋_GBK";
+        color: #000000;
+    }
+
     p {
         font-family: "DeVinne BT", "方正书宋_GBK";
     }
 
     }
+

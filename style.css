@@ -1,13 +1,11 @@
     @font-face {
         font-family: "方正书宋_GBK";
         src: url("assets/fonts/FZSSK.ttf") format("truetype");
-        unicode-range: U+4E00-9FFF;
     }
     @font-face {
         font-family: "DeVinne BT";
         src: url("assets/fonts/TT0911M_.ttf") format("truetype"),
              url("assets/fonts/TT0912M_.ttf") format("truetype");
-        unicode-range: U+0000-007F;
     }
     
     body {
@@ -27,5 +25,6 @@
     p {
         font-family: "DeVinne BT", "方正书宋_GBK";
     }
+
 
 

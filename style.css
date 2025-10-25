@@ -1,12 +1,12 @@
     @font-face {
         font-family: "方正书宋_GBK";
-        src: url("https://github.com/hearanhies-maker/hearanhies-maker.github.io/blob/main/TT0911M_.TTF") format("ttf");
+        src: url("assets/fonts/FZSSK.ttf") format("ttf");
         unicode-range: U+4E00-9FFF;
     }
     @font-face {
         font-family: "DeVinne BT";
-        src: url(https://github.com/hearanhies-maker/hearanhies-maker.github.io/blob/main/TT0911M_.TTF) format("ttf"),
-             url(https://github.com/hearanhies-maker/hearanhies-maker.github.io/blob/main/TT0912M_.TTF) format("ttf");
+        src: url(assets/fonts/TT0911M_.ttf) format("ttf"),
+             url(assets/fonts/TT0912M_.ttf) format("ttf");
         unicode-range: U+0000-007F;
     }
     
@@ -27,3 +27,4 @@
     p {
         font-family: "DeVinne BT", "方正书宋_GBK";
     }
+
